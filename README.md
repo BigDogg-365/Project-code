@@ -1,2 +1,2 @@
 # Project-code
-### A compilation of R programmins scripts
+### A compilation of DA projects
